@@ -1,0 +1,30 @@
+{
+  "name": "Magic Button",
+    "title": "jQuery Magic Button",
+    "description": "This is a button that i learn from VBPOPFlatButton.",
+    "keywords": [
+        "button",
+        "animation"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "liril",
+        "url": "https://github.com/liril-net/jQuery.MagicButton"
+    },
+    "maintainers": [
+        {
+            "name": "Cyril Su",
+            "email": "god@liril.net",
+            "url": "http://liril.net"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": ""
+        }
+    ],
+    "dependencies": {
+    "jquery" : ">=1.5"
+  }
+}
