@@ -13,7 +13,8 @@
   "author": "god@liril.net",
   "keywords": [
     "button",
-    "animation"
+    "animation",
+    "jquery-plugin"
   ],
   "license": "MIT",
   "bugs": {
