@@ -1,0 +1,22 @@
+{
+  "name": "jQuery.MagicButton",
+  "main": "jQuery.MagicButton.js",
+  "homepage": "https://github.com/liril-net/jQuery.MagicButton",
+  "authors": [
+    "lirilsu <god@liril.net>"
+  ],
+  "description": "This is a button that i learn from VBPOPFlatButton.",
+  "moduleType": [],
+  "keywords": [
+    "button",
+    "animation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "magicbutton",
+  "version": "0.1.0",
+  "description": "This is a button that i learn from VBPOPFlatButton.",
+  "main": "jQuery.MagicButton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liril-net/jQuery.MagicButton.git"
+  },
+  "author": "god@liril.net",
+  "keywords": [
+    "button",
+    "animation"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liril-net/jQuery.MagicButton/issues"
+  },
+  "homepage": "https://github.com/liril-net/jQuery.MagicButton#readme"
+}
