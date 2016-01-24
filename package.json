@@ -1,6 +1,6 @@
 {
   "name": "magicbutton",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An amazing button that you may like.",
   "man" : "./README.md",
   "main": "jQuery.MagicButton.js",
