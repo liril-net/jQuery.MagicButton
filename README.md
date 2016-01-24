@@ -31,6 +31,11 @@ Alternatively, download the package and reference the JavaScript files manually:
 <script src="jQuery.MagicButton.min.js"></script>
 ```
 
+Button Types
+------------
+
+![Button Types](http://hub.liril.net/image/mb/png/ButtonType.png)
+
 Contributing
 ------------
 

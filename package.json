@@ -1,7 +1,8 @@
 {
   "name": "magicbutton",
   "version": "0.1.0",
-  "description": "This is a button that i learn from VBPOPFlatButton.",
+  "description": "An amazing button that you may like.",
+  "man" : "./README.md",
   "main": "jQuery.MagicButton.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
